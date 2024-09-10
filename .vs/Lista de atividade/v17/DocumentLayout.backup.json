@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\models\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\models\\filtros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\views\\home\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\views\\home\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|c:\\users\\mathe\\source\\repos\\lista de atividade\\lista de atividade\\migrations\\20240905170221_criandobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A4C381-C613-4C4B-AD8F-14F835AEE0E3}|Lista de atividade\\Lista de atividade.csproj|solutionrelative:lista de atividade\\migrations\\20240905170221_criandobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Views\\Home\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "Lista de atividade\\Views\\Home\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Views\\Home\\Adicionar.cshtml",
+              "RelativeToolTip": "Lista de atividade\\Views\\Home\\Adicionar.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:09:49.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lista de atividade\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lista de atividade\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:55:34.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lista de atividade\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lista de atividade\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:40:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filtros.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Models\\Filtros.cs",
+              "RelativeDocumentMoniker": "Lista de atividade\\Models\\Filtros.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Models\\Filtros.cs",
+              "RelativeToolTip": "Lista de atividade\\Models\\Filtros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:05:49.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240905170221_CriandoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Migrations\\20240905170221_CriandoBanco.cs",
+              "RelativeDocumentMoniker": "Lista de atividade\\Migrations\\20240905170221_CriandoBanco.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Migrations\\20240905170221_CriandoBanco.cs",
+              "RelativeToolTip": "Lista de atividade\\Migrations\\20240905170221_CriandoBanco.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:02:21.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Lista de atividade\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Models\\Tarefa.cs",
+              "RelativeToolTip": "Lista de atividade\\Models\\Tarefa.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:35:45.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Lista de atividade\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Models\\Status.cs",
+              "RelativeToolTip": "Lista de atividade\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:34:46.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Lista de atividade\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Models\\Categoria.cs",
+              "RelativeToolTip": "Lista de atividade\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:34:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Program.cs",
+              "RelativeDocumentMoniker": "Lista de atividade\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Program.cs",
+              "RelativeToolTip": "Lista de atividade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:30:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\appsettings.json",
+              "RelativeDocumentMoniker": "Lista de atividade\\appsettings.json",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\appsettings.json",
+              "RelativeToolTip": "Lista de atividade\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T13:44:00.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lista de atividade\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\Lista de atividade\\Lista de atividade\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Lista de atividade\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:36:12.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
